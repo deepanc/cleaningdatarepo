@@ -1,4 +1,5 @@
 run_analysis <- function(){
+        library(dplyr)
         
         #Read all feature names from features.txt
         
